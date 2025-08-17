@@ -8,5 +8,11 @@ Documenting the Journey of Learning DATA SCIENCE and MACHINE LEARNING by buildin
 ## ML Projects 
 1.[House-Price-Prediction-System](https://github.com/Cybersayak/House-Price-Prediction-System)
 
+
 ## Gen AI Projects 
+
+------
 ## MLOPs 
+
+------
+## Data Engineering Projects
